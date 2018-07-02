@@ -1,0 +1,32 @@
+
+.social_button{
+    background: #4475F5;
+    border: none;
+    width: 60%;
+    height: 3rem;
+    margin: 0 20%;
+    border-radius: 5px;
+    font-size: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr;
+}
+.social_button img{
+    width: 100%;
+    height: 100%;
+}
+.social_button ul li{
+    float: left;
+}
+
+.social_button img{
+    width: 100%;
+    
+}
+
+#phone{
+    width: 60%;
+    border-radius: 5px;
+    font-size: 2rem;
+    margin: 20% 20% 2% 20%;
+}
